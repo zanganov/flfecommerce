@@ -3,7 +3,7 @@ import './NavBar.css'
 
 const NavBar = () => {
   return (
-    <div>Fede</div>
+    <div>Fede Barra de Navegacion</div>
     
   )
 }
