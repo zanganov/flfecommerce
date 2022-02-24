@@ -1,5 +1,19 @@
 div{
     background-color: aqua;
-    color:green;
-    font-size: 20px;
+    height: 100px;
+    display: inline-flex;
+    width: 100%;
+  
+   
 }
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    color: blue;  
+    position: absolute; 
+    
+}
+
+
+
+

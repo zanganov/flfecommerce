@@ -2,8 +2,16 @@ import React from 'react'
 import './NavBar.css'
 
 const NavBar = () => {
+  //console.log(children)
   return (
-    <div>Fede Barra de Navegacion</div>
+    <div>
+      <ul>
+        <li/>INICIO
+        <li/>NOSOTROS
+        <li/>PRODUCTOS
+        <li/>CONTACTO
+      </ul>
+    </div>
     
   )
 }
