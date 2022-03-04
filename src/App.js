@@ -9,20 +9,12 @@ import ItemListContainer from './components/ComponenteContenedor/ItemListContain
 import ItemCount from './components/Contador/ItemCount'
 import Div from './components/Contador/Div'
 
-
-
-
-
 function App() {
   return (
     <div className="App">
       
-     
-      <ItemListContainer />
-      
-      
-      
-          </div>     
+      <ItemListContainer/>
+      </div>     
           
   );
 }
